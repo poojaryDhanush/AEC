@@ -8,7 +8,6 @@ This project demonstrates the complete engineering workflow of designing and imp
 - 2-Layer PCB Design with Ground Plane
 - LTspice Simulation & Waveform Verification
 - Hardware Implementation & Testing
-- Fabrication-Ready Gerber Files
 
 The circuit generates a continuous square wave output without any external triggering signal.
 
@@ -81,7 +80,6 @@ The calculated values match the simulation and hardware results.
 - Clean routing with proper clearance
 - DRC verified (0 errors)
 - Through-hole component layout
-- Fabrication-ready Gerber files
 
 ---
 
